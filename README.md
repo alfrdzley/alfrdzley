@@ -13,6 +13,7 @@ I am passionate about Software Engineering, with a particular focus on back-end 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfrdzqt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syera-al-faridzi/) 
 </div>
 
+<br>
 <div align='center'>
 <h1>💻 Tech Stack</h1>
   
