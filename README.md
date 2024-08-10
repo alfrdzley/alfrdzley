@@ -5,7 +5,7 @@
 const Person = {
    name: "SYERA AL-FARIDZI",
    age : 19,
-   country: "Samarnda" 
+   country: "Samarinda" 
 ```
 
 <h1>
