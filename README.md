@@ -2,11 +2,11 @@
 ---
 ```javascript
 
-const Person = {
+const Profile = {
    name: "SYERA AL-FARIDZI",
    age : 19,
    country: "Samarinda"
-}
+};
 ```
 
 <h1>
