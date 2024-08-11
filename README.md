@@ -5,7 +5,7 @@
 const Profile = {
    name: "SYERA AL-FARIDZI",
    age : 19,
-  country: "Indonesia"
+   country: "Indonesia"
 };
 ```
 
