@@ -1,1 +1,1 @@
-# Hi, I'm Al-Faridzi 👋
+# berani pusing untuk codink
