@@ -1,1 +1,1 @@
-# berani pusing untuk codink
+depan laptop
